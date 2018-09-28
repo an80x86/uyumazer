@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "111209707620",
+    "firebase_url": "https://uyumazer-a02ed.firebaseio.com",
+    "project_id": "uyumazer-a02ed",
+    "storage_bucket": "uyumazer-a02ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111209707620:android:dd9c534e007aea49",
+        "android_client_info": {
+          "package_name": "com.uyumazer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111209707620-nbiltvmv9lu0s7d9pg36ckl0n3gnoopo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYrfj0lnEc8AeSFAo1eQt0mUvO-O7Bj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
